@@ -8,7 +8,7 @@ Causality is central to our understanding of the world and of each other. We thi
 
 ### Instructor info
 
-<img src="/img/tobias_gerstenberg.jpg" alt="Tobias Gerstenberg" width="200"/>
+<img src="tobias_gerstenberg.jpg" alt="Tobias Gerstenberg" width="200"/>
 [Tobi Gerstenberg](http://cicl.stanford.edu/member/tobias_gerstenberg) 
 
 __Office__: [420-302](https://campus-map.stanford.edu/?id=01-420&lat=37.42826985&lng=-122.16901666&zoom=17&srch=420-302) (in Jordan Hall) \\
