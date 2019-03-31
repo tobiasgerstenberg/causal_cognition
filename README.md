@@ -22,17 +22,16 @@ The class meets on Mondays	between __3:30__ and __6:20PM__ in [160-323](https://
 
 The readings will be made available via [Canvas](https://canvas.stanford.edu/). 
 
-##### 4/1/19: Introduction 
+##### 4/1/19: Introduction & logistics 
 
-- Readings: 
-	+ 
+- 
 
 ##### 4/8/19: Causality in thought (session ends at 5pm)
 
 - Causality in Thought, Sloman, Lagnado, 2015.pdf
-- 
 
 ##### 4/15/19: Philosophy of causation
+
 
 
 ##### 4/22/19: Theories of 
@@ -66,7 +65,6 @@ The readings will be made available via [Canvas](https://canvas.stanford.edu/).
 - Schaffer, J. (2005). Contrastive causation. The Philosophical Review, 114(3), 327--358. 
 - Schaffer, J. (2010). Contrastive causation in the law. Legal Theory, 16(04), 259--297. 
 
-
 ### General information
 
 #### What you will learn
@@ -97,7 +95,7 @@ _You will ..._
 - give a presentation in class. 
 
 #### Grading 
-<!-- still needs to be set up -->
+
 - 
 
 #### Policies 
@@ -119,7 +117,6 @@ Stanford offers several tutoring and coaching services:
 - [Hume Center for Writing and Speaking](https://undergrad.stanford.edu/tutoring-support/hume-center)
 
 #### Feedback 
-<!-- still needs to be set up -->
 
-We welcome feedback regarding the course at any point. Please feel free to email us directly, or leave anonymous feedback for the teaching team by using our [online form](http://bit.do/psych291feedback). 
+I welcome feedback regarding the course at any point. Please feel free to email me directly, or leave anonymous feedback using this [online form](http://bit.do/psych291feedback). 
 
