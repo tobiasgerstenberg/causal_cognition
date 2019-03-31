@@ -1,4 +1,4 @@
-[• Schedule](#schedule) 	[• Information](#general-information) 
+<span style="font-size:2em">[Schedule](#schedule) 	[Information](#general-information)</span>
 
 Causality is central to our understanding of the world and of each other. We think causally when we predict what will happen in the future, infer what happened in the past, and interpret other people's actions and emotions. Causality is intimately linked to explanation -- to answering questions about why something happened. In this discussion-based seminar class, we will first read foundational work in philosophy that introduces the main frameworks for thinking about causation. We will then read some work on formal and computational theories of causation that was inspired by these philosophical frameworks. Equipped with this background, we will study the psychology of causal learning, reasoning, and judgment. We will tackle questions such as: How can we learn about the causal structure of the world through observation and active intervention? What is the relationship between causal reasoning and mental simulation? Why do we select to talk about some causes over others when several causes led to an outcome? Toward the end of the course, we will discuss how what we have learned about causation in psychology may inform other fields of inquiry, such as legal science as well as machine learning and artificial intelligence.
 
@@ -26,7 +26,7 @@ __Note__: Please note that this syllabus is not final. I will adapt the readings
 
 ##### 4/1/19 Introduction & logistics 
 
-##### 4/8/19 Causality in thought (Note: This session ends at 5pm!)
+##### 4/8/19 Causality in thought (<span style="color:red">Note: This session ends at 5pm!</span>)
 
 __Causality in cognition__
 
