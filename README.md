@@ -26,8 +26,6 @@ __Note__: Please note that this syllabus is not final. We will adapt the reading
 
 ##### 4/1/19: Introduction & logistics 
 
-- 
-
 ##### 4/8/19: Causality in thought (Note: This session ends at 5pm!)
 
 __Causality in cognition__
@@ -40,11 +38,11 @@ __Causality in cognition__
 __Concepts of causation__
 
 - Hall, N. (2004). Two concepts of causation. In Causation and Counterfactuals. MIT Press.
-- Schaffer, J. (2005). Contrastive causation. The Philosophical Review, 114(3), 327--358. 
+- Schaffer, J. (2005). Contrastive causation. The Philosophical Review, 114(3), 327-358. 
 
 __Philosophy & Psychology of causation__
 
-- White, P. A. (1990). Ideas about causation in philosophy and psychology. Psychological Bulletin, 108(1), 3--18.
+- White, P. A. (1990). Ideas about causation in philosophy and psychology. Psychological Bulletin, 108(1), 3-18.
 - Woodward, J. (2012). Causation: Interactions between Philosophical Theories and Psychological Research. Philosophy of Science, 79(5), 961-972. 
 
 __Optional__: 
@@ -61,7 +59,7 @@ __Process theories of causation__
 
 __Dependence theories of causation__
 
-- Halpern, J. Y. & Pearl, J. (2005). Causes and explanations: A structural-model approach. Part I: Causes. The British Journal for the Philosophy of Science, 56(4), 843--887. 
+- Halpern, J. Y. & Pearl, J. (2005). Causes and explanations: A structural-model approach. Part I: Causes. The British Journal for the Philosophy of Science, 56(4), 843-887. 
 - Halpern, J. Y. & Hitchcock, C. (2015). Graded Causation and Defaults. British Journal for the Philosophy of Science, 66, 413-457. 
 
 Optional: 
@@ -98,7 +96,7 @@ __Causal reasoning based on observations and interventions__
 
 - Sloman, S. A. & Lagnado, D. A. (2005). Do we `do'?. Cognitive Science, 29(1), 5-39. 
 - Waldmann, M. R. & Hagmayer, Y. (2005). Seeing versus doing: two modes of accessing causal knowledge. Journal of Experimental Psychology: Learning, Memory, and Cognition, 31(2), 216-227. 
-- Krynski, T. R. & Tenenbaum, J. B. (2007). The role of causality in judgment under uncertainty. Journal of Experimental Psychology: General, 136(3), 430--450. 
+- Krynski, T. R. & Tenenbaum, J. B. (2007). The role of causality in judgment under uncertainty. Journal of Experimental Psychology: General, 136(3), 430-450. 
 
 __The problem of causal selection__
 
@@ -109,9 +107,9 @@ __The problem of causal selection__
 
 __Intuitive physics__
 
-- White, P. A. (2006). The causal asymmetry. Psychological Review, 113(1), 132--147. 
+- White, P. A. (2006). The causal asymmetry. Psychological Review, 113(1), 132-147. 
 - Mayrhofer, R. & Waldmann, M. R. (2014). Indicators of causal agency in physical interactions: The role of the prior context. Cognition, 132(3), 485-490. 
-- Sanborn, A. N., Mansinghka, V. K., & Griffiths, T. L. (2013). Reconciling intuitive physics and Newtonian mechanics for colliding objects. Psychological Review, 120(2), 411--437. 
+- Sanborn, A. N., Mansinghka, V. K., & Griffiths, T. L. (2013). Reconciling intuitive physics and Newtonian mechanics for colliding objects. Psychological Review, 120(2), 411-437. 
 
 __The role of normative expectations__
 
@@ -122,7 +120,7 @@ __Optional__
 
 - Kahneman, D. & Miller, D. T. (1986). Norm theory: Comparing reality to its alternatives. Psychological Review, 93(2), 136-153. 
 - Gerstenberg, T., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (in preparation). A counterfactual simulation model of causal judgment. 
-- Woodward, J. (2006). Sensitive and insensitive causation. The Philosophical Review, 115(1), 1--50. 
+- Woodward, J. (2006). Sensitive and insensitive causation. The Philosophical Review, 115(1), 1-50. 
 
 
 ##### 5/27/19: Memorial day (no class)
@@ -137,7 +135,7 @@ __Optional__
 
 __Causation and common sense__
 
-- Schaffer, J. (2010). Contrastive causation in the law. Legal Theory, 16(04), 259--297. 
+- Schaffer, J. (2010). Contrastive causation in the law. Legal Theory, 16(04), 259-297. 
 - Summers, A. (2018). Common-Sense Causation in the Law. Oxford Journal of Legal Studies, 38(4), 793-821. 
 - Lagnado, D. A. & Gerstenberg, T. (2017). Causation in legal and moral reasoning. In Oxford Handbook of Causal Reasoning (pp. 565-602). Oxford University Press.
 
@@ -149,7 +147,7 @@ __Optional__
 
 #### What you will learn
 
-<!-- still needs to be set up -->
+<!-- still needs to be set up ->
 
 #### What to expect? 
 
