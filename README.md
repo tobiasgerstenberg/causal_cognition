@@ -20,7 +20,7 @@ The class meets on Mondays	between __3:30__ and __6:20PM__ in [160-323](https://
 
 The readings will be made available via [Canvas](https://canvas.stanford.edu/). 
 
-__Note__: Please note that this syllabus is not final. We will adapt the readings based on your interests! 
+__Note__: Please note that this syllabus is not final. I will adapt the readings based on your interests! 
 
 ##### 4/119: Introduction & logistics 
 
@@ -45,6 +45,7 @@ __Philosophy & Psychology of causation__
 
 __Optional__: 
 
+- Lombrozo, T. (2010). Causal-explanatory pluralism: How intentions, functions, and mechanisms influence causal ascriptions. Cognitive Psychology, 61(4), 303--332. 
 - [Menzies, Peter, "Counterfactual Theories of Causation", The Stanford Encyclopedia of Philosophy (Winter 2017 Edition), Edward N. Zalta (ed.).](https://plato.stanford.edu/archives/win2017/entries/causation-counterfactual/)
 - [Starr, William, "Counterfactuals", The Stanford Encyclopedia of Philosophy (Spring 2019 Edition), Edward N. Zalta (ed.).](https://plato.stanford.edu/archives/spr2019/entries/counterfactuals/)
 
@@ -80,7 +81,7 @@ __Perception or cognition?__
 __The development of causal reasoning__ 
 
 - Gopnik, A., Glymour, C., Sobel, D., Schulz, L., Kushnir, T., & Danks, D. (2004). A theory of causal learning in children: Causal maps and Bayes nets. Psychological Review, 111, 1--31. 
-- Frosch, C. A., McCormack, T., Lagnado, D. A., & Burns, P. (2012). Are Causal Structure and Intervention Judgments Inextricably Linked? A Developmental Study. Cognitive Science, 36, 261--285. 
+- Frosch, C. A., McCormack, T., Lagnado, D. A., & Burns, P. (2012). Are causal structure and intervention judgments inextricably linked? A developmental study. Cognitive Science, 36, 261--285. 
 
 __Causal learning in adults__
 
