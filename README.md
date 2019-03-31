@@ -1,3 +1,5 @@
+[Schedule](#schedule) 	[Information](#general-information)
+
 Causality is central to our understanding of the world and of each other. We think causally when we predict what will happen in the future, infer what happened in the past, and interpret other people's actions and emotions. Causality is intimately linked to explanation -- to answering questions about why something happened. In this discussion-based seminar class, we will first read foundational work in philosophy that introduces the main frameworks for thinking about causation. We will then read some work on formal and computational theories of causation that was inspired by these philosophical frameworks. Equipped with this background, we will study the psychology of causal learning, reasoning, and judgment. We will tackle questions such as: How can we learn about the causal structure of the world through observation and active intervention? What is the relationship between causal reasoning and mental simulation? Why do we select to talk about some causes over others when several causes led to an outcome? Toward the end of the course, we will discuss how what we have learned about causation in psychology may inform other fields of inquiry, such as legal science as well as machine learning and artificial intelligence.
 
 <hr>
@@ -18,7 +20,7 @@ __Email__: gerstenberg@stanford.edu
 
 The class meets on Mondays	between __3:30__ and __6:20PM__ in [160-323](https://campus-map.stanford.edu/?id=01-160&lat=37.42826985&lng=-122.16901666&zoom=17&srch=160-323) (Wallenberg Hall). 
 
-The readings will be made available via [Canvas](https://canvas.stanford.edu/). 
+The readings will be made available through [Canvas](https://canvas.stanford.edu/). 
 
 __Note__: Please note that this syllabus is not final. I will adapt the readings based on your interests! 
 
@@ -74,7 +76,7 @@ __Perceiving causation__
 __Perception or cognition?__
 
 - Bechlivanidis, C. & Lagnado, D. A. (2016). Time reordered: Causal perception guides the interpretation of temporal order. Cognition, 146, 58--66. 
-- Woodward, J. (2011). Causal Perception and Causal Cognition. Perception, Causation, and Objectivity, 229--263. 
+- Woodward, J. (2011). Causal perception and causal cognition. Perception, Causation, and Objectivity, 229--263. 
 
 ##### 5/6/19 Causal learning 
 
@@ -148,7 +150,7 @@ __Optional__
 
 #### What you will learn
 
-<!-- still needs to be set up -->
+- 
 
 #### What to expect? 
 
@@ -162,7 +164,7 @@ Let's try our best together in this class to make this happen!
 
 _I will ..._
 
-- be in class 5 minutes before it starts to set up and stay for up to 10 minutes afterwards for questions. 
+- be in class 5 minutes before it starts to set up and stay 10 minutes afterwards for questions. 
 - start and end each class on time. 
 - be there for you during [office hours](#course-info).
 - provide an introduction to the field of causal cognition in the first session. 
