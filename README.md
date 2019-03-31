@@ -29,19 +29,19 @@ __Note__: Please note that this syllabus is not final. We will adapt the reading
 __Causality in cognition__
 
 - Causality in Thought, Sloman, Lagnado, 2015.pdf
-- Alicke, M. D., Mandel, D. R., Hilton, D., Gerstenberg, T., & Lagnado, D. A. (2015). Causal conceptions in social explanation and moral evaluation: A historical tour. Perspectives on Psychological Science, 10(6), 790-812. 
+- Alicke, M. D., Mandel, D. R., Hilton, D., Gerstenberg, T., & Lagnado, D. A. (2015). Causal conceptions in social explanation and moral evaluation: A historical tour. Perspectives on Psychological Science, 10(6), 790--812. 
 
 ##### 4/15/19: Philosophy of causation
 
 __Concepts of causation__
 
 - Hall, N. (2004). Two concepts of causation. In Causation and Counterfactuals. MIT Press.
-- Schaffer, J. (2005). Contrastive causation. The Philosophical Review, 114(3), 327-358. 
+- Schaffer, J. (2005). Contrastive causation. The Philosophical Review, 114(3), 327--358. 
 
 __Philosophy & Psychology of causation__
 
-- White, P. A. (1990). Ideas about causation in philosophy and psychology. Psychological Bulletin, 108(1), 3-18.
-- Woodward, J. (2012). Causation: Interactions between Philosophical Theories and Psychological Research. Philosophy of Science, 79(5), 961-972. 
+- White, P. A. (1990). Ideas about causation in philosophy and psychology. Psychological Bulletin, 108(1), 3--18.
+- Woodward, J. (2012). Causation: Interactions between Philosophical Theories and Psychological Research. Philosophy of Science, 79(5), 961--972. 
 
 __Optional__: 
 
@@ -53,12 +53,12 @@ __Optional__:
 __Process theories of causation__
 
 - Wolff, P. (2007). Representing causation. Journal of Experimental Psychology: General, 136(1), 82-111.
-- Wolff, P., Barbey, A. K., & Hausknecht, M. (2010). For want of a nail: How absences cause events. Journal of Experimental Psychology: General, 139(2), 191-221. 
+- Wolff, P., Barbey, A. K., & Hausknecht, M. (2010). For want of a nail: How absences cause events. Journal of Experimental Psychology: General, 139(2), 191--221. 
 
 __Dependence theories of causation__
 
-- Halpern, J. Y. & Pearl, J. (2005). Causes and explanations: A structural-model approach. Part I: Causes. The British Journal for the Philosophy of Science, 56(4), 843-887. 
-- Halpern, J. Y. & Hitchcock, C. (2015). Graded Causation and Defaults. British Journal for the Philosophy of Science, 66, 413-457. 
+- Halpern, J. Y. & Pearl, J. (2005). Causes and explanations: A structural-model approach. Part I: Causes. The British Journal for the Philosophy of Science, 56(4), 843--887. 
+- Halpern, J. Y. & Hitchcock, C. (2015). Graded Causation and Defaults. British Journal for the Philosophy of Science, 66, 413--457. 
 
 Optional: 
 - [Hitchcock, Christopher, "Causal Models", The Stanford Encyclopedia of Philosophy (Fall 2018 Edition), Edward N. Zalta (ed.)](https://plato.stanford.edu/archives/fall2018/entries/causal-models/) 
@@ -67,47 +67,47 @@ Optional:
 
 __Perceiving causation__
 
-- Rips, L. J. (2011). Causation from perception. Perspectives on Psychological Science, 6(1), 77-97. 
-- Scholl, B. J. & Tremoulet, P. D. (2000). Perceptual causality and animacy. Trends in Cognitive Sciences, 4(8), 299-309. 
+- Rips, L. J. (2011). Causation from perception. Perspectives on Psychological Science, 6(1), 77--97. 
+- Scholl, B. J. & Tremoulet, P. D. (2000). Perceptual causality and animacy. Trends in Cognitive Sciences, 4(8), 299--309. 
 
 __Perception or cognition?__
 
-- Bechlivanidis, C. & Lagnado, D. A. (2016). Time reordered: Causal perception guides the interpretation of temporal order. Cognition, 146, 58-66. 
-- Woodward, J. (2011). Causal Perception and Causal Cognition. Perception, Causation, and Objectivity, 229-263. 
+- Bechlivanidis, C. & Lagnado, D. A. (2016). Time reordered: Causal perception guides the interpretation of temporal order. Cognition, 146, 58--66. 
+- Woodward, J. (2011). Causal Perception and Causal Cognition. Perception, Causation, and Objectivity, 229--263. 
 
 ##### 5/6/19: Causal learning 
 
 __The development of causal reasoning__ 
 
-- Gopnik, A., Glymour, C., Sobel, D., Schulz, L., Kushnir, T., & Danks, D. (2004). A theory of causal learning in children: Causal maps and Bayes nets. Psychological Review, 111, 1-31. 
-- Frosch, C. A., McCormack, T., Lagnado, D. A., & Burns, P. (2012). Are Causal Structure and Intervention Judgments Inextricably Linked? A Developmental Study. Cognitive Science, 36, 261-285. 
+- Gopnik, A., Glymour, C., Sobel, D., Schulz, L., Kushnir, T., & Danks, D. (2004). A theory of causal learning in children: Causal maps and Bayes nets. Psychological Review, 111, 1--31. 
+- Frosch, C. A., McCormack, T., Lagnado, D. A., & Burns, P. (2012). Are Causal Structure and Intervention Judgments Inextricably Linked? A Developmental Study. Cognitive Science, 36, 261--285. 
 
 __Causal learning in adults__
 
-- Lagnado, D. A., Waldmann, M. R., Hagmayer, Y., & Sloman, S. A. (2007). Beyond covariation. In Causal learning: Psychology, philosophy, and computation (pp. 154-172). Oxford University Press.
-- Bramley, N. R., Gerstenberg, T., Mayrhofer, R., & Lagnado, D. A. (2018). Time in causal structure learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(12), 1880-1910. 
-- Griffiths, T. L. & Tenenbaum, J. B. (2005). Structure and strength in causal induction. Cognitive Psychology, 51(4), 334-384. 
+- Lagnado, D. A., Waldmann, M. R., Hagmayer, Y., & Sloman, S. A. (2007). Beyond covariation. In Causal learning: Psychology, philosophy, and computation (pp. 154--172). Oxford University Press.
+- Bramley, N. R., Gerstenberg, T., Mayrhofer, R., & Lagnado, D. A. (2018). Time in causal structure learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(12), 1880--1910. 
+- Griffiths, T. L. & Tenenbaum, J. B. (2005). Structure and strength in causal induction. Cognitive Psychology, 51(4), 334--384. 
 
 ##### 5/13/19: Causal reasoning
 
 __Causal reasoning based on observations and interventions__
 
-- Sloman, S. A. & Lagnado, D. A. (2005). Do we `do'?. Cognitive Science, 29(1), 5-39. 
-- Waldmann, M. R. & Hagmayer, Y. (2005). Seeing versus doing: two modes of accessing causal knowledge. Journal of Experimental Psychology: Learning, Memory, and Cognition, 31(2), 216-227. 
-- Krynski, T. R. & Tenenbaum, J. B. (2007). The role of causality in judgment under uncertainty. Journal of Experimental Psychology: General, 136(3), 430-450. 
+- Sloman, S. A. & Lagnado, D. A. (2005). Do we `do'?. Cognitive Science, 29(1), 5--39. 
+- Waldmann, M. R. & Hagmayer, Y. (2005). Seeing versus doing: two modes of accessing causal knowledge. Journal of Experimental Psychology: Learning, Memory, and Cognition, 31(2), 216--227. 
+- Krynski, T. R. & Tenenbaum, J. B. (2007). The role of causality in judgment under uncertainty. Journal of Experimental Psychology: General, 136(3), 430--450. 
 
 __The problem of causal selection__
 
-- Hesslow, G. (1988). The problem of causal selection. In Contemporary science and natural explanation: Commonsense conceptions of causality, Brighton, UK, 1988 (pp. 11-32). Harvester Press.
-- Woodward, J. (2015). The problem of variable choice. Synthese. 
+- Hesslow, G. (1988). The problem of causal selection. In Contemporary science and natural explanation: Commonsense conceptions of causality, Brighton, UK, 1988 (pp. 11--32). Harvester Press.
+Woodward, J. (2015). The problem of variable choice. Synthese, 193(4), 1047--1072. 
 
 ##### 5/20/19: Causal judgment
 
 __Intuitive physics__
 
-- White, P. A. (2006). The causal asymmetry. Psychological Review, 113(1), 132-147. 
+- White, P. A. (2006). The causal asymmetry. Psychological Review, 113(1), 132--147. 
 - Mayrhofer, R. & Waldmann, M. R. (2014). Indicators of causal agency in physical interactions: The role of the prior context. Cognition, 132(3), 485-490. 
-- Sanborn, A. N., Mansinghka, V. K., & Griffiths, T. L. (2013). Reconciling intuitive physics and Newtonian mechanics for colliding objects. Psychological Review, 120(2), 411-437. 
+- Sanborn, A. N., Mansinghka, V. K., & Griffiths, T. L. (2013). Reconciling intuitive physics and Newtonian mechanics for colliding objects. Psychological Review, 120(2), 411--437. 
 
 __The role of normative expectations__
 
@@ -118,7 +118,7 @@ __Optional__
 
 - Kahneman, D. & Miller, D. T. (1986). Norm theory: Comparing reality to its alternatives. Psychological Review, 93(2), 136-153. 
 - Gerstenberg, T., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (in preparation). A counterfactual simulation model of causal judgment. 
-- Woodward, J. (2006). Sensitive and insensitive causation. The Philosophical Review, 115(1), 1-50. 
+- Woodward, J. (2006). Sensitive and insensitive causation. The Philosophical Review, 115(1), 1--50. 
 
 
 ##### 5/27/19: Memorial day (no class)
@@ -133,7 +133,7 @@ __Optional__
 
 __Causation and common sense__
 
-- Schaffer, J. (2010). Contrastive causation in the law. Legal Theory, 16(04), 259-297. 
+- Schaffer, J. (2010). Contrastive causation in the law. Legal Theory, 16(04), 259--297. 
 - Summers, A. (2018). Common-Sense Causation in the Law. Oxford Journal of Legal Studies, 38(4), 793-821. 
 - Lagnado, D. A. & Gerstenberg, T. (2017). Causation in legal and moral reasoning. In Oxford Handbook of Causal Reasoning (pp. 565-602). Oxford University Press.
 
@@ -145,7 +145,7 @@ __Optional__
 
 #### What you will learn
 
-<!-- still needs to be set up ->
+<!-- still needs to be set up -->
 
 #### What to expect? 
 
