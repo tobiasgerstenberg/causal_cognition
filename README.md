@@ -6,7 +6,7 @@ Causality is central to our understanding of the world and of each other. We thi
 
 <img src="tobias_gerstenberg.jpg" alt="Tobias Gerstenberg" width="200"/>
 
-[Tobi Gerstenberg](http://cicl.stanford.edu/member/tobias_gerstenberg) 
+[Tobi Gerstenberg](http://cicl.stanford.edu/member/tobias_gerstenberg), Assistant Professor of Cognitive Psychology
 
 __Office hours__: Friday 10-11am (or by appointment), 
 
@@ -22,7 +22,7 @@ The readings will be made available via [Canvas](https://canvas.stanford.edu/).
 
 __Note__: Please note that this syllabus is not final. I will adapt the readings based on your interests! 
 
-##### 4/119: Introduction & logistics 
+##### 4/1/19 Introduction & logistics 
 
 ##### 4/8/19 Causality in thought (Note: This session ends at 5pm!)
 
@@ -174,7 +174,8 @@ _You will ..._
 
 - attend all of [the classes](#schedule) and participate in class discussion.
 - lead the discussion for one session in class (you may use slides to help structure the discussion). 
-- prepare a handout for the session that you're leading, and discuss the handout with me during office hours on the Friday before your presentation. 
+- prepare a handout for the session that you're leading. 
+- discuss the handout with me during office hours __on Friday before your presentation__. 
 - write a short reaction paper based on the readings and upload the paper on Canvas by 10pm (at the latest) the night before class. 
 
 #### Grading 
