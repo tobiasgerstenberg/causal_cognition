@@ -1,5 +1,3 @@
-# PSYCH 291: Causal Cognition
-
 ## Course info
 
 Causality is central to our understanding of the world and of each other. We think causally when we predict what will happen in the future, infer what happened in the past, and interpret other people's actions and emotions. Causality is intimately linked to explanation -- to answering questions about why something happened. In this discussion-based seminar class, we will first read foundational work in philosophy that introduces the main frameworks for thinking about causation. We will then read some work on formal and computational theories of causation that was inspired by these philosophical frameworks. Equipped with this background, we will study the psychology of causal learning, reasoning, and judgment. We will tackle questions such as: How can we learn about the causal structure of the world through observation and active intervention? What is the relationship between causal reasoning and mental simulation? Why do we select to talk about some causes over others when several causes led to an outcome? Toward the end of the course, we will discuss how what we have learned about causation in psychology may inform other fields of inquiry, such as legal science as well as machine learning and artificial intelligence.
@@ -12,9 +10,9 @@ Causality is central to our understanding of the world and of each other. We thi
 
 [Tobi Gerstenberg](http://cicl.stanford.edu/member/tobias_gerstenberg) 
 
-__Office__: [420-302](https://campus-map.stanford.edu/?id=01-420&lat=37.42826985&lng=-122.16901666&zoom=17&srch=420-302) (in Jordan Hall) 
+__Office hours__: Friday 10-11am (or by appointment), 
 
-__Office hours__: Friday 10-11am 
+__Office__: [420-302](https://campus-map.stanford.edu/?id=01-420&lat=37.42826985&lng=-122.16901666&zoom=17&srch=420-302) (in Jordan Hall) 
 
 __Email__: gerstenberg@stanford.edu
 
@@ -37,8 +35,7 @@ The readings will be made available via Canvas.
 ##### 4/15/19: Philosophy of causation
 
 
-
-##### 4/22/19: 
+##### 4/22/19: Theories of 
 
 ##### 4/29/19: Causal perception 
 
@@ -48,12 +45,12 @@ The readings will be made available via Canvas.
 
 - associative vs. causal learning
 
-##### 5/13/19: Causal judgment 
+##### 5/13/19: Causal reasoning 
 
 - causal selection 
 - Phil Wolff 
 
-##### 5/20/19: Decision-making 
+##### 5/20/19: Causal judgment
 
 
 ##### 5/27/19: Memorial day 
