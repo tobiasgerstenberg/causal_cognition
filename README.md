@@ -1,4 +1,4 @@
-<span style="font-size:2em">[Schedule](#schedule) 	[Information](#general-information)</span>
+<!-- <span style="font-size:2em">[Schedule](#schedule) 	[Information](#general-information)</span> -->
 
 Causality is central to our understanding of the world and of each other. We think causally when we predict what will happen in the future, infer what happened in the past, and interpret other people's actions and emotions. Causality is intimately linked to explanation -- to answering questions about why something happened. In this discussion-based seminar class, we will first read foundational work in philosophy that introduces the main frameworks for thinking about causation. We will then read some work on formal and computational theories of causation that was inspired by these philosophical frameworks. Equipped with this background, we will study the psychology of causal learning, reasoning, and judgment. We will tackle questions such as: How can we learn about the causal structure of the world through observation and active intervention? What is the relationship between causal reasoning and mental simulation? Why do we select to talk about some causes over others when several causes led to an outcome? Toward the end of the course, we will discuss how what we have learned about causation in psychology may inform other fields of inquiry, such as legal science as well as machine learning and artificial intelligence.
 
@@ -16,13 +16,26 @@ __Office__: [420-302](https://campus-map.stanford.edu/?id=01-420&lat=37.42826985
 
 __Email__: gerstenberg@stanford.edu
 
-### Schedule
+### Schedule overview 
 
 The class meets on Mondays	between __3:30__ and __6:20PM__ in [160-323](https://campus-map.stanford.edu/?id=01-160&lat=37.42826985&lng=-122.16901666&zoom=17&srch=160-323) (Wallenberg Hall). 
 
-The readings will be made available through [Canvas](https://canvas.stanford.edu/). 
-
 __Note__: Please note that this syllabus is not final. I will adapt the readings based on your interests! 
+
+- 4/1/19 Introduction & logistics 
+- 4/8/19 Causality in thought (<span style="color:red">Note: This session ends at 5pm!</span>)
+- 4/15/19 Philosophy of causation
+- 4/22/19 Theories of causation
+- 4/29/19 Causal perception 
+- 5/6/19 Causal learning 
+- 5/13/19 Causal reasoning
+- 5/20/19 Causal judgment
+- 5/27/19 Memorial day (<span style="color:red">no class</span>)
+- 6/3/19 Causality in AI and in the Law 
+
+### Detailed schedule
+
+The readings will be made available through [Canvas](https://canvas.stanford.edu/). 
 
 ##### 4/1/19 Introduction & logistics 
 
@@ -30,7 +43,7 @@ __Note__: Please note that this syllabus is not final. I will adapt the readings
 
 __Causality in cognition__
 
-- Sloman, S. A. & Lagnado, D. (2015). Causality in Thought. Annual Review of Psychology, 66(1), 223--247. 
+- Sloman, S. A. & Lagnado, D. (2015). Causality in thought. Annual Review of Psychology, 66(1), 223--247. 
 - Alicke, M. D., Mandel, D. R., Hilton, D., Gerstenberg, T., & Lagnado, D. A. (2015). Causal conceptions in social explanation and moral evaluation: A historical tour. Perspectives on Psychological Science, 10(6), 790--812. 
 
 ##### 4/15/19 Philosophy of causation
@@ -128,7 +141,7 @@ __Intuitive theories__
 
 ##### 5/27/19 Memorial day (no class)
 
-##### 6/3/19 Causality in AI, and the law 
+##### 6/3/19 Causality in AI and in the Law 
 
 __Causality in AI__
 
@@ -148,17 +161,13 @@ __Optional__
 
 ### General information
 
-#### What you will learn
-
-- 
-
 #### What to expect? 
 
 In ["A Vision for Stanford"](https://ourvision.stanford.edu/), university president Marc Tessier-Lavigne states that Stanford wants to be 
 
 >"an inspired, inclusive and collaborative community of diverse scholars, students and staff, where all are supported and empowered to thrive." 
 
-Let's try our best together in this class to make this happen! 
+Let's try our best together in this seminar to make this happen! 
 
 ##### What you can expect from me
 
@@ -166,7 +175,7 @@ _I will ..._
 
 - be in class 5 minutes before it starts to set up and stay 10 minutes afterwards for questions. 
 - start and end each class on time. 
-- be there for you during [office hours](#course-info).
+- meet with you to discuss the handout during [office hours](#course-info) on Friday before class.
 - provide an introduction to the field of causal cognition in the first session. 
 - help facilitate the discussion in subsequent sessions. 
 
@@ -178,13 +187,26 @@ _You will ..._
 - lead the discussion for one session in class (you may use slides to help structure the discussion). 
 - prepare a handout for the session that you're leading. 
 - discuss the handout with me during office hours __on Friday before your presentation__. 
-- write a short reaction paper based on the readings and upload the paper on Canvas by 10pm (at the latest) the night before class. 
+- write short [reaction papers](#reaction-posts) based on the readings and upload each paper on Canvas by 10pm (at the latest) the night before class. 
 
 #### Grading 
 
 - 50% class presentation & handout 
 - 25% reaction posts to readings
 - 25% participation and discussion in class
+
+##### Reaction posts 
+
+Here are some guiding thoughts on how to write a good reaction posts: 
+
+- Structure your posts (headings, subheadings, etc.). 
+- Express your opinion rather than summarize the paper(s).
+- Try to connect the ideas expressed in the paper to concrete every-day experiences. 
+- Identify strengths and weaknesses of the paper. 
+- Relate different papers to each other. 
+- Ask questions that go beyond what the paper discuss (what's missing, where should we go next)? 
+
+The reaction posts should be concise (one or two paragraphs per paper). 
 
 #### Policies 
 
