@@ -28,7 +28,7 @@ __Note__: Please note that this syllabus is not final. We will adapt the reading
 
 __Causality in cognition__
 
-- Causality in Thought, Sloman, Lagnado, 2015.pdf
+- Sloman, S. A. & Lagnado, D. (2015). Causality in Thought. Annual Review of Psychology, 66(1), 223--247. 
 - Alicke, M. D., Mandel, D. R., Hilton, D., Gerstenberg, T., & Lagnado, D. A. (2015). Causal conceptions in social explanation and moral evaluation: A historical tour. Perspectives on Psychological Science, 10(6), 790--812. 
 
 ##### 4/15/19: Philosophy of causation
@@ -60,7 +60,7 @@ __Dependence theories of causation__
 - Halpern, J. Y. & Pearl, J. (2005). Causes and explanations: A structural-model approach. Part I: Causes. The British Journal for the Philosophy of Science, 56(4), 843--887. 
 - Halpern, J. Y. & Hitchcock, C. (2015). Graded Causation and Defaults. British Journal for the Philosophy of Science, 66, 413--457. 
 
-Optional: 
+__Optional__: 
 - [Hitchcock, Christopher, "Causal Models", The Stanford Encyclopedia of Philosophy (Fall 2018 Edition), Edward N. Zalta (ed.)](https://plato.stanford.edu/archives/fall2018/entries/causal-models/) 
 
 ##### 4/29/19: Causal perception 
