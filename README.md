@@ -22,48 +22,128 @@ The class meets on Mondays	between __3:30__ and __6:20PM__ in [160-323](https://
 
 The readings will be made available via [Canvas](https://canvas.stanford.edu/). 
 
+__Note__: Please note that this syllabus is not final. We will adapt the readings based on your interests! 
+
 ##### 4/1/19: Introduction & logistics 
 
 - 
 
-##### 4/8/19: Causality in thought (session ends at 5pm)
+##### 4/8/19: Causality in thought (Note: This session ends at 5pm!)
+
+__Causality in cognition__
 
 - Causality in Thought, Sloman, Lagnado, 2015.pdf
+- Alicke, M. D., Mandel, D. R., Hilton, D., Gerstenberg, T., & Lagnado, D. A. (2015). Causal conceptions in social explanation and moral evaluation: A historical tour. Perspectives on Psychological Science, 10(6), 790-812. 
 
 ##### 4/15/19: Philosophy of causation
 
+__Concepts of causation__
 
+- Hall, N. (2004). Two concepts of causation. In Causation and Counterfactuals. MIT Press.
+- Schaffer, J. (2005). Contrastive causation. The Philosophical Review, 114(3), 327--358. 
 
-##### 4/22/19: Theories of 
+__Philosophy & Psychology of causation__
+
+- White, P. A. (1990). Ideas about causation in philosophy and psychology. Psychological Bulletin, 108(1), 3--18.
+- Woodward, J. (2012). Causation: Interactions between Philosophical Theories and Psychological Research. Philosophy of Science, 79(5), 961-972. 
+
+__Optional__: 
+
+- [Menzies, Peter, "Counterfactual Theories of Causation", The Stanford Encyclopedia of Philosophy (Winter 2017 Edition), Edward N. Zalta (ed.).](https://plato.stanford.edu/archives/win2017/entries/causation-counterfactual/)
+- [Starr, William, "Counterfactuals", The Stanford Encyclopedia of Philosophy (Spring 2019 Edition), Edward N. Zalta (ed.).](https://plato.stanford.edu/archives/spr2019/entries/counterfactuals/)
+
+##### 4/22/19: Theories of causation 
+
+__Process theories of causation__
+
+- Wolff, P. (2007). Representing causation. Journal of Experimental Psychology: General, 136(1), 82-111.
+- Wolff, P., Barbey, A. K., & Hausknecht, M. (2010). For want of a nail: How absences cause events. Journal of Experimental Psychology: General, 139(2), 191-221. 
+
+__Dependence theories of causation__
+
+- Halpern, J. Y. & Pearl, J. (2005). Causes and explanations: A structural-model approach. Part I: Causes. The British Journal for the Philosophy of Science, 56(4), 843--887. 
+- Halpern, J. Y. & Hitchcock, C. (2015). Graded Causation and Defaults. British Journal for the Philosophy of Science, 66, 413-457. 
+
+Optional: 
+- [Hitchcock, Christopher, "Causal Models", The Stanford Encyclopedia of Philosophy (Fall 2018 Edition), Edward N. Zalta (ed.)](https://plato.stanford.edu/archives/fall2018/entries/causal-models/) 
 
 ##### 4/29/19: Causal perception 
 
-- 
+__Perceiving causation__
+
+- Rips, L. J. (2011). Causation from perception. Perspectives on Psychological Science, 6(1), 77-97. 
+- Scholl, B. J. & Tremoulet, P. D. (2000). Perceptual causality and animacy. Trends in Cognitive Sciences, 4(8), 299-309. 
+
+__Perception or cognition?__
+
+- Bechlivanidis, C. & Lagnado, D. A. (2016). Time reordered: Causal perception guides the interpretation of temporal order. Cognition, 146, 58-66. 
+- Woodward, J. (2011). Causal Perception and Causal Cognition. Perception, Causation, and Objectivity, 229-263. 
 
 ##### 5/6/19: Causal learning 
 
-- associative vs. causal learning
+__The development of causal reasoning__ 
 
-##### 5/13/19: Causal reasoning 
+- Gopnik, A., Glymour, C., Sobel, D., Schulz, L., Kushnir, T., & Danks, D. (2004). A theory of causal learning in children: Causal maps and Bayes nets. Psychological Review, 111, 1-31. 
+- Frosch, C. A., McCormack, T., Lagnado, D. A., & Burns, P. (2012). Are Causal Structure and Intervention Judgments Inextricably Linked? A Developmental Study. Cognitive Science, 36, 261-285. 
 
-- causal selection 
-- Phil Wolff 
+__Causal learning in adults__
+
+- Lagnado, D. A., Waldmann, M. R., Hagmayer, Y., & Sloman, S. A. (2007). Beyond covariation. In Causal learning: Psychology, philosophy, and computation (pp. 154-172). Oxford University Press.
+- Bramley, N. R., Gerstenberg, T., Mayrhofer, R., & Lagnado, D. A. (2018). Time in causal structure learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(12), 1880-1910. 
+- Griffiths, T. L. & Tenenbaum, J. B. (2005). Structure and strength in causal induction. Cognitive Psychology, 51(4), 334-384. 
+
+##### 5/13/19: Causal reasoning
+
+__Causal reasoning based on observations and interventions__
+
+- Sloman, S. A. & Lagnado, D. A. (2005). Do we `do'?. Cognitive Science, 29(1), 5-39. 
+- Waldmann, M. R. & Hagmayer, Y. (2005). Seeing versus doing: two modes of accessing causal knowledge. Journal of Experimental Psychology: Learning, Memory, and Cognition, 31(2), 216-227. 
+- Krynski, T. R. & Tenenbaum, J. B. (2007). The role of causality in judgment under uncertainty. Journal of Experimental Psychology: General, 136(3), 430--450. 
+
+__The problem of causal selection__
+
+- Hesslow, G. (1988). The problem of causal selection. In Contemporary science and natural explanation: Commonsense conceptions of causality, Brighton, UK, 1988 (pp. 11-32). Harvester Press.
+- Woodward, J. (2015). The problem of variable choice. Synthese. 
 
 ##### 5/20/19: Causal judgment
 
+__Intuitive physics__
 
-##### 5/27/19: Memorial day 
+- White, P. A. (2006). The causal asymmetry. Psychological Review, 113(1), 132--147. 
+- Mayrhofer, R. & Waldmann, M. R. (2014). Indicators of causal agency in physical interactions: The role of the prior context. Cognition, 132(3), 485-490. 
+- Sanborn, A. N., Mansinghka, V. K., & Griffiths, T. L. (2013). Reconciling intuitive physics and Newtonian mechanics for colliding objects. Psychological Review, 120(2), 411--437. 
 
+__The role of normative expectations__
+
+- Hitchcock, C. & Knobe, J. (2009). Cause and norm. Journal of Philosophy, 11, 587-612. 
+- Icard, T. F., Kominsky, J. F., & Knobe, J. (2017). Normality and actual causal strength. Cognition, 161, 80-93.
+
+__Optional__
+
+- Kahneman, D. & Miller, D. T. (1986). Norm theory: Comparing reality to its alternatives. Psychological Review, 93(2), 136-153. 
+- Gerstenberg, T., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (in preparation). A counterfactual simulation model of causal judgment. 
+- Woodward, J. (2006). Sensitive and insensitive causation. The Philosophical Review, 115(1), 1--50. 
+
+
+##### 5/27/19: Memorial day (no class)
 
 ##### 6/3/19: Causality and AI 
 
 - Pearl, J. (2019). The seven tools of causal inference, with reflections on machine learning. Communications of the ACM, 62(3), 54-60. 
 - Miller, T. (2017). Explanation in Artificial Intelligence: Insights from the Social Sciences. arXiv:1706.07269 [cs]. 
 
-#### Causation in the Law
+#### Causation in AI and in the Law
 
-- Schaffer, J. (2005). Contrastive causation. The Philosophical Review, 114(3), 327--358. 
+
+__Causation and common sense__
+
 - Schaffer, J. (2010). Contrastive causation in the law. Legal Theory, 16(04), 259--297. 
+- Summers, A. (2018). Common-Sense Causation in the Law. Oxford Journal of Legal Studies, 38(4), 793-821. 
+- Lagnado, D. A. & Gerstenberg, T. (2017). Causation in legal and moral reasoning. In Oxford Handbook of Causal Reasoning (pp. 565-602). Oxford University Press.
+
+__Optional__
+
+- Moore, M. S. (2009). Causation and responsibility: An essay in law, morals, and metaphysics. Oxford University Press. 
 
 ### General information
 
@@ -86,17 +166,23 @@ _I will ..._
 - be in class 5 minutes before it starts to set up and stay for up to 10 minutes afterwards for questions. 
 - start and end each class on time. 
 - be there for you during [office hours](#course-info).
+- provide an introduction to the field of causal cognition in the first session. 
+- help facilitate the discussion in subsequent sessions. 
 
 ##### What I expect from you 
 
 _You will ..._
 
 - attend all of [the classes](#schedule) and participate in class discussion.
-- give a presentation in class. 
+- lead the discussion for one session in class (you may use slides to help structure the discussion). 
+- prepare a handout for the session that you're leading, and discuss the handout with me during office hours on the Friday before your presentation. 
+- write a short reaction paper based on the readings and upload the paper on Canvas by 10pm (at the latest) the night before class. 
 
 #### Grading 
 
-- 
+- 50% class presentation & handout 
+- 25% reaction posts to readings
+- 25% participation and discussion in class
 
 #### Policies 
 
