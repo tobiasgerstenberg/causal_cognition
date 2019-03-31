@@ -20,7 +20,7 @@ __Email__: gerstenberg@stanford.edu
 
 The class meets on Mondays	between __3:30__ and __6:20PM__ in [160-323](https://campus-map.stanford.edu/?id=01-160&lat=37.42826985&lng=-122.16901666&zoom=17&srch=160-323) (Wallenberg Hall). 
 
-The readings will be made available via Canvas. 
+The readings will be made available via [Canvas](https://canvas.stanford.edu/). 
 
 ##### 4/1/19: Introduction 
 
