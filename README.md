@@ -106,36 +106,34 @@ Woodward, J. (2015). The problem of variable choice. Synthese, 193(4), 1047--107
 __Intuitive physics__
 
 - White, P. A. (2006). The causal asymmetry. Psychological Review, 113(1), 132--147. 
-- Mayrhofer, R. & Waldmann, M. R. (2014). Indicators of causal agency in physical interactions: The role of the prior context. Cognition, 132(3), 485-490. 
+- Mayrhofer, R. & Waldmann, M. R. (2014). Indicators of causal agency in physical interactions: The role of the prior context. Cognition, 132(3), 485--490. 
 - Sanborn, A. N., Mansinghka, V. K., & Griffiths, T. L. (2013). Reconciling intuitive physics and Newtonian mechanics for colliding objects. Psychological Review, 120(2), 411--437. 
 
 __The role of normative expectations__
 
-- Hitchcock, C. & Knobe, J. (2009). Cause and norm. Journal of Philosophy, 11, 587-612. 
-- Icard, T. F., Kominsky, J. F., & Knobe, J. (2017). Normality and actual causal strength. Cognition, 161, 80-93.
+- Hitchcock, C. & Knobe, J. (2009). Cause and norm. Journal of Philosophy, 11, 587--612. 
+- Icard, T. F., Kominsky, J. F., & Knobe, J. (2017). Normality and actual causal strength. Cognition, 161, 80--93.
 
 __Optional__
 
-- Kahneman, D. & Miller, D. T. (1986). Norm theory: Comparing reality to its alternatives. Psychological Review, 93(2), 136-153. 
+- Kahneman, D. & Miller, D. T. (1986). Norm theory: Comparing reality to its alternatives. Psychological Review, 93(2), 136--153. 
 - Gerstenberg, T., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (in preparation). A counterfactual simulation model of causal judgment. 
 - Woodward, J. (2006). Sensitive and insensitive causation. The Philosophical Review, 115(1), 1--50. 
 
-
 ##### 5/27/19: Memorial day (no class)
 
-##### 6/3/19: Causality and AI 
+##### 6/3/19: Causality in AI, and the law 
 
-- Pearl, J. (2019). The seven tools of causal inference, with reflections on machine learning. Communications of the ACM, 62(3), 54-60. 
-- Miller, T. (2017). Explanation in Artificial Intelligence: Insights from the Social Sciences. arXiv:1706.07269 [cs]. 
+__Causality in AI__
 
-#### Causation in AI and in the Law
+- Pearl, J. (2019). The seven tools of causal inference, with reflections on machine learning. Communications of the ACM, 62(3), 54--60. 
+- [Miller, T. (2017). Explanation in Artificial Intelligence: Insights from the Social Sciences. arXiv:1706.07269.](https://arxiv.org/abs/1706.07269) 
 
+__Causality in the law__
 
-__Causation and common sense__
-
+- Summers, A. (2018). Common-Sense Causation in the Law. Oxford Journal of Legal Studies, 38(4), 793--821. 
 - Schaffer, J. (2010). Contrastive causation in the law. Legal Theory, 16(04), 259--297. 
-- Summers, A. (2018). Common-Sense Causation in the Law. Oxford Journal of Legal Studies, 38(4), 793-821. 
-- Lagnado, D. A. & Gerstenberg, T. (2017). Causation in legal and moral reasoning. In Oxford Handbook of Causal Reasoning (pp. 565-602). Oxford University Press.
+- Lagnado, D. A. & Gerstenberg, T. (2017). Causation in legal and moral reasoning. In Oxford Handbook of Causal Reasoning (pp. 565--602). Oxford University Press.
 
 __Optional__
 
