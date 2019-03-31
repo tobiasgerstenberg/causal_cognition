@@ -22,16 +22,16 @@ The readings will be made available via [Canvas](https://canvas.stanford.edu/).
 
 __Note__: Please note that this syllabus is not final. We will adapt the readings based on your interests! 
 
-##### 4/1/19: Introduction & logistics 
+##### 4/119: Introduction & logistics 
 
-##### 4/8/19: Causality in thought (Note: This session ends at 5pm!)
+##### 4/8/19 Causality in thought (Note: This session ends at 5pm!)
 
 __Causality in cognition__
 
 - Sloman, S. A. & Lagnado, D. (2015). Causality in Thought. Annual Review of Psychology, 66(1), 223--247. 
 - Alicke, M. D., Mandel, D. R., Hilton, D., Gerstenberg, T., & Lagnado, D. A. (2015). Causal conceptions in social explanation and moral evaluation: A historical tour. Perspectives on Psychological Science, 10(6), 790--812. 
 
-##### 4/15/19: Philosophy of causation
+##### 4/15/19 Philosophy of causation
 
 __Concepts of causation__
 
@@ -48,7 +48,7 @@ __Optional__:
 - [Menzies, Peter, "Counterfactual Theories of Causation", The Stanford Encyclopedia of Philosophy (Winter 2017 Edition), Edward N. Zalta (ed.).](https://plato.stanford.edu/archives/win2017/entries/causation-counterfactual/)
 - [Starr, William, "Counterfactuals", The Stanford Encyclopedia of Philosophy (Spring 2019 Edition), Edward N. Zalta (ed.).](https://plato.stanford.edu/archives/spr2019/entries/counterfactuals/)
 
-##### 4/22/19: Theories of causation 
+##### 4/22/19 Theories of causation 
 
 __Process theories of causation__
 
@@ -63,7 +63,7 @@ __Dependence theories of causation__
 __Optional__: 
 - [Hitchcock, Christopher, "Causal Models", The Stanford Encyclopedia of Philosophy (Fall 2018 Edition), Edward N. Zalta (ed.)](https://plato.stanford.edu/archives/fall2018/entries/causal-models/) 
 
-##### 4/29/19: Causal perception 
+##### 4/29/19 Causal perception 
 
 __Perceiving causation__
 
@@ -75,7 +75,7 @@ __Perception or cognition?__
 - Bechlivanidis, C. & Lagnado, D. A. (2016). Time reordered: Causal perception guides the interpretation of temporal order. Cognition, 146, 58--66. 
 - Woodward, J. (2011). Causal Perception and Causal Cognition. Perception, Causation, and Objectivity, 229--263. 
 
-##### 5/6/19: Causal learning 
+##### 5/6/19 Causal learning 
 
 __The development of causal reasoning__ 
 
@@ -88,7 +88,7 @@ __Causal learning in adults__
 - Bramley, N. R., Gerstenberg, T., Mayrhofer, R., & Lagnado, D. A. (2018). Time in causal structure learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(12), 1880--1910. 
 - Griffiths, T. L. & Tenenbaum, J. B. (2005). Structure and strength in causal induction. Cognitive Psychology, 51(4), 334--384. 
 
-##### 5/13/19: Causal reasoning
+##### 5/13/19 Causal reasoning
 
 __Causal reasoning based on observations and interventions__
 
@@ -99,35 +99,39 @@ __Causal reasoning based on observations and interventions__
 __The problem of causal selection__
 
 - Hesslow, G. (1988). The problem of causal selection. In Contemporary science and natural explanation: Commonsense conceptions of causality, Brighton, UK, 1988 (pp. 11--32). Harvester Press.
-Woodward, J. (2015). The problem of variable choice. Synthese, 193(4), 1047--1072. 
-
-##### 5/20/19: Causal judgment
-
-__Intuitive physics__
-
-- White, P. A. (2006). The causal asymmetry. Psychological Review, 113(1), 132--147. 
-- Mayrhofer, R. & Waldmann, M. R. (2014). Indicators of causal agency in physical interactions: The role of the prior context. Cognition, 132(3), 485--490. 
-- Sanborn, A. N., Mansinghka, V. K., & Griffiths, T. L. (2013). Reconciling intuitive physics and Newtonian mechanics for colliding objects. Psychological Review, 120(2), 411--437. 
-
-__The role of normative expectations__
-
+- Woodward, J. (2015). The problem of variable choice. Synthese, 193(4), 1047--1072. 
 - Hitchcock, C. & Knobe, J. (2009). Cause and norm. Journal of Philosophy, 11, 587--612. 
 - Icard, T. F., Kominsky, J. F., & Knobe, J. (2017). Normality and actual causal strength. Cognition, 161, 80--93.
 
 __Optional__
 
-- Kahneman, D. & Miller, D. T. (1986). Norm theory: Comparing reality to its alternatives. Psychological Review, 93(2), 136--153. 
+- Woodward, J. (2006). Sensitive and insensitive causation. The Philosophical Review, 115(1), 1--50.
+- Kahneman, D. & Miller, D. T. (1986). Norm theory: Comparing reality to its alternatives. Psychological Review, 93(2), 136--153.  
+
+##### 5/20/19 Causal judgment
+
+__The physics of causation__
+
+- White, P. A. (2006). The causal asymmetry. Psychological Review, 113(1), 132--147. 
+- Mayrhofer, R. & Waldmann, M. R. (2014). Indicators of causal agency in physical interactions: The role of the prior context. Cognition, 132(3), 485--490. 
+- Sanborn, A. N., Mansinghka, V. K., & Griffiths, T. L. (2013). Reconciling intuitive physics and Newtonian mechanics for colliding objects. Psychological Review, 120(2), 411--437. 
+
+__Intuitive theories__
+
 - Gerstenberg, T., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (in preparation). A counterfactual simulation model of causal judgment. 
-- Woodward, J. (2006). Sensitive and insensitive causation. The Philosophical Review, 115(1), 1--50. 
+- Gerstenberg, T., Peterson, M. F., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (2017). Eye-Tracking causality. Psychological Science, 28(12), 1731--1744. 
+- Chater, N. & Oaksford, M. (2013). Programs as causal models: Speculations on mental programs and mental representation. Cognitive Science, 37(6), 1171--1191. 
+- Goodman, N. D., Tenenbaum, J. B., & Gerstenberg, T. (2015). Concepts in a probabilistic language of thought. In The Conceptual Mind: New Directions in the Study of Concepts (pp. 623--653). MIT Press.
 
-##### 5/27/19: Memorial day (no class)
+##### 5/27/19 Memorial day (no class)
 
-##### 6/3/19: Causality in AI, and the law 
+##### 6/3/19 Causality in AI, and the law 
 
 __Causality in AI__
 
 - Pearl, J. (2019). The seven tools of causal inference, with reflections on machine learning. Communications of the ACM, 62(3), 54--60. 
 - [Miller, T. (2017). Explanation in Artificial Intelligence: Insights from the Social Sciences. arXiv:1706.07269.](https://arxiv.org/abs/1706.07269) 
+- Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2016). Building machines that learn and think like people. Behavioral and Brain Sciences, 40. 
 
 __Causality in the law__
 
