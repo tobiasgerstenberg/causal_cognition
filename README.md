@@ -84,7 +84,7 @@ __Optional__
 
 - [Hitchcock, Christopher, "Causal Models", The Stanford Encyclopedia of Philosophy (Fall 2018 Edition), Edward N. Zalta (ed.)](https://plato.stanford.edu/archives/fall2018/entries/causal-models/) 
 - Wolff, P., Barbey, A. K., & Hausknecht, M. (2010). For want of a nail: How absences cause events. Journal of Experimental Psychology: General, 139(2), 191--221. 
-- Halpern, J. Y. & Hitchcock, C. (2015). Graded Causation and Defaults. British Journal for the Philosophy of Science, 66, 413--457. 
+- Halpern, J. Y. & Hitchcock, C. (2015). Graded causation and defaults. British Journal for the Philosophy of Science, 66, 413--457. 
 
 ##### 4/29 Causal perception 
 
@@ -98,6 +98,10 @@ __Perception or cognition?__
 
 - Woodward, J. (2011). Causal perception and causal cognition. Perception, Causation, and Objectivity, 229--263. 
 - Bechlivanidis, C. & Lagnado, D. A. (2016). Time reordered: Causal perception guides the interpretation of temporal order. Cognition, 146, 58--66. 
+
+__Optional__
+
+- Saxe, R. & Carey, S. (2006). The perception of causality in infancy. Acta Psychologica, 123(1-2), 144--165. 
 
 ##### 5/6 Causal learning 
 
@@ -167,7 +171,7 @@ __Causality in the law__
 
 __Optional__
 
-- Moore, M. S. (2009). Causation and responsibility: An essay in law, morals, and metaphysics. Oxford University Press. 
+- Moore, M. S. (1999). Causation and responsibility. Social Philosophy and Policy, 16(2), 1--51. 
 - Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2016). Building machines that learn and think like people. Behavioral and Brain Sciences, 40. 
 
 ### General information
