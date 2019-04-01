@@ -205,16 +205,17 @@ _You will ..._
 - prepare a handout for the session that you're leading. 
 - discuss the handout with me during office hours __on Friday before your presentation__. 
 - write short [reaction papers](#reaction-posts) based on the readings and upload each paper on Canvas by 10pm (at the latest) the night before class. 
+- write a final paper (and submit a paper proposal). 
 - students who audit the class are expected to write reaction posts and participate in discussion in class. 
 
 #### Grading 
 
-- 40% final project
+- 40% final paper
 - 20% handout and leading discussion 
 - 20% reaction posts to readings
 - 20% participation and discussion in class
 
-##### Final project 
+##### Final paper
 
 The final project may be one of the following three: 
 
@@ -222,9 +223,9 @@ The final project may be one of the following three:
 2. A literature review on one of the class topics. 
 3. An essay (I will post essay questions). 
 
-A short final project proposal (1/2 page) will be due on __Sunday, 26th at 10pm__. 
+A short final paper proposal (1/2 page) will be due on __Sunday, 26th at 10pm__. 
 
-The final project (2000--3000 words) will be due on __June, 9th at 10pm__. 
+The final paper (2000--3000 words) will be due on __June, 9th at 10pm__. 
 
 ##### Reaction posts 
 
