@@ -195,6 +195,7 @@ _I will ..._
 - meet with you to discuss the handout during [office hours](#course-info) on Friday before class.
 - provide an introduction to the field of causal cognition in the first session. 
 - help facilitate the discussion in subsequent sessions. 
+- send announcements via Canvas to guide the reading for each upcoming week. 
 
 ##### What I expect from you 
 
