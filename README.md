@@ -20,24 +20,24 @@ The class meets on Mondays	between __3:30__ and __6:20PM__ in [160-323](https://
 
 __Note__: This syllabus is not final. I will adapt the readings based on your interests! 
 
-- 4/1/19 Introduction & logistics 
-- 4/8/19 Causality in thought (<span style="color:red">Note: This session ends at 5pm!</span>)
-- 4/15/19 Philosophy of causation
-- 4/22/19 Theories of causation
-- 4/29/19 Causal perception 
-- 5/6/19 Causal learning 
-- 5/13/19 Causal reasoning
-- 5/20/19 Causal judgment
-- 5/27/19 Memorial day (<span style="color:red">no class</span>)
-- 6/3/19 Causality in AI and in the Law 
+- 4/1 Introduction & logistics 
+- 4/8 Causality in thought (<span style="color:red">Note: This session ends at 5pm!</span>)
+- 4/15 Philosophy of causation
+- 4/22 Theories of causation
+- 4/29 Causal perception 
+- 5/6 Causal learning 
+- 5/13 Causal reasoning
+- 5/20 Causal judgment
+- 5/27 Memorial day (<span style="color:red">no class</span>)
+- 6/3 Causality in AI and in the Law 
 
 ### Detailed schedule
 
 The readings will be made available through [Canvas](https://canvas.stanford.edu/). 
 
-##### 4/1/19 Introduction & logistics 
+##### 4/1 Introduction & logistics 
 
-##### 4/8/19 Causality in thought 
+##### 4/8 Causality in thought 
 
 <span style="color:red">Note: We'll have class until 5pm and you're encouraged to join in afterwards for the talk at the Center for Mind, Brain, Computation and Technology.</span>
 
@@ -52,7 +52,7 @@ __Understanding "why": The role of causality in cognition__
 - Location: Sloan Hall, Math Building 380, Room 380-C
 - Details: [https://neuroscience.stanford.edu/mbct/events/understanding-why-role-causality-cognition](https://neuroscience.stanford.edu/mbct/events/understanding-why-role-causality-cognition)
 
-##### 4/15/19 Philosophy of causation
+##### 4/15 Philosophy of causation
 
 __Concepts of causation__
 
@@ -70,13 +70,13 @@ __Optional__:
 - [Menzies, Peter, "Counterfactual Theories of Causation", The Stanford Encyclopedia of Philosophy (Winter 2017 Edition), Edward N. Zalta (ed.).](https://plato.stanford.edu/archives/win2017/entries/causation-counterfactual/)
 - [Starr, William, "Counterfactuals", The Stanford Encyclopedia of Philosophy (Spring 2019 Edition), Edward N. Zalta (ed.).](https://plato.stanford.edu/archives/spr2019/entries/counterfactuals/)
 
-##### 4/22/19 Theories of causation 
+##### 4/22 Theories of causation 
 
-__Process theories of causation__
+__Process theories__
 
 - Wolff, P. (2007). Representing causation. Journal of Experimental Psychology: General, 136(1), 82-111.
 
-__Dependence theories of causation__
+__Dependence theories__
 
 - Halpern, J. Y. & Pearl, J. (2005). Causes and explanations: A structural-model approach. Part I: Causes. The British Journal for the Philosophy of Science, 56(4), 843--887. 
 
@@ -86,7 +86,7 @@ __Optional__
 - Wolff, P., Barbey, A. K., & Hausknecht, M. (2010). For want of a nail: How absences cause events. Journal of Experimental Psychology: General, 139(2), 191--221. 
 - Halpern, J. Y. & Hitchcock, C. (2015). Graded Causation and Defaults. British Journal for the Philosophy of Science, 66, 413--457. 
 
-##### 4/29/19 Causal perception 
+##### 4/29 Causal perception 
 
 __Perceiving causation__
 
@@ -99,7 +99,7 @@ __Perception or cognition?__
 - Woodward, J. (2011). Causal perception and causal cognition. Perception, Causation, and Objectivity, 229--263. 
 - Bechlivanidis, C. & Lagnado, D. A. (2016). Time reordered: Causal perception guides the interpretation of temporal order. Cognition, 146, 58--66. 
 
-##### 5/6/19 Causal learning 
+##### 5/6 Causal learning 
 
 __The development of causal reasoning__ 
 
@@ -112,7 +112,7 @@ __Causal learning in adults__
 - Griffiths, T. L. & Tenenbaum, J. B. (2005). Structure and strength in causal induction. Cognitive Psychology, 51(4), 334--384. 
 - Bramley, N. R., Gerstenberg, T., Mayrhofer, R., & Lagnado, D. A. (2018). Time in causal structure learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(12), 1880--1910. 
 
-##### 5/13/19 Causal reasoning
+##### 5/13 Causal reasoning
 
 __Causal reasoning based on observations and interventions__
 
@@ -132,7 +132,7 @@ __Optional__
 - Krynski, T. R. & Tenenbaum, J. B. (2007). The role of causality in judgment under uncertainty. Journal of Experimental Psychology: General, 136(3), 430--450. 
 - Kahneman, D. & Miller, D. T. (1986). Norm theory: Comparing reality to its alternatives. Psychological Review, 93(2), 136--153.  
 
-##### 5/20/19 Causal judgment
+##### 5/20 Causal judgment
 
 __Causation and physics__
 
@@ -150,9 +150,9 @@ __Optional__
 - Chater, N. & Oaksford, M. (2013). Programs as causal models: Speculations on mental programs and mental representation. Cognitive Science, 37(6), 1171--1191. 
 - Goodman, N. D., Tenenbaum, J. B., & Gerstenberg, T. (2015). Concepts in a probabilistic language of thought. In The Conceptual Mind: New Directions in the Study of Concepts (pp. 623--653). MIT Press.
 
-##### 5/27/19 Memorial day (<span style="color:red">no class</span>)
+##### 5/27 Memorial day (<span style="color:red">no class</span>)
 
-##### 6/3/19 Causality in AI and in the Law 
+##### 6/3 Causality in AI and in the Law 
 
 __Causality in AI__
 
