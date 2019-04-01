@@ -21,7 +21,7 @@ The class meets on Mondays	between __3:30__ and __6:20PM__ in [160-323](https://
 __Note__: This syllabus is not final. I will adapt the readings based on your interests! 
 
 - 4/1 Introduction & logistics 
-- 4/8 Causality in thought (<span style="color:red">Note: This session ends at 5pm!</span>)
+- 4/8 Causality in thought 
 - 4/15 Philosophy of causation
 - 4/22 Theories of causation
 - 4/29 Causal perception 
@@ -39,7 +39,7 @@ The readings will be made available through [Canvas](https://canvas.stanford.edu
 
 ##### 4/8 Causality in thought 
 
-<span style="color:red">Note: We'll have class until 5pm and you're encouraged to join in afterwards for the talk at the Center for Mind, Brain, Computation and Technology.</span>
+<span style="color:red">__Note__: We'll have class until 5pm and it would be great if you joined in afterwards for my talk at the Center for Mind, Brain, Computation and Technology.</span>
 
 __Causality in cognition__
 
