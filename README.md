@@ -61,7 +61,7 @@ __Concepts of causation__
 __Philosophy & Psychology of causation__
 
 - White, P. A. (1990). Ideas about causation in philosophy and psychology. Psychological Bulletin, 108(1), 3--18.
-- Woodward, J. (2012). Causation: Interactions between Philosophical Theories and Psychological Research. Philosophy of Science, 79(5), 961--972. 
+- Woodward, J. (2012). Causation: Interactions between philosophical theories and psychological research. Philosophy of Science, 79(5), 961--972. 
 
 __Optional__: 
 
@@ -94,8 +94,8 @@ __Perceiving causation__
 
 __Perception or cognition?__
 
-- Bechlivanidis, C. & Lagnado, D. A. (2016). Time reordered: Causal perception guides the interpretation of temporal order. Cognition, 146, 58--66. 
 - Woodward, J. (2011). Causal perception and causal cognition. Perception, Causation, and Objectivity, 229--263. 
+- Bechlivanidis, C. & Lagnado, D. A. (2016). Time reordered: Causal perception guides the interpretation of temporal order. Cognition, 146, 58--66. 
 
 ##### 5/6/19 Causal learning 
 
@@ -114,7 +114,7 @@ __Causal learning in adults__
 
 __Causal reasoning based on observations and interventions__
 
-- Sloman, S. A. & Lagnado, D. A. (2005). Do we `do'?. Cognitive Science, 29(1), 5--39. 
+- Sloman, S. A. & Lagnado, D. A. (2005). Do we "do"?. Cognitive Science, 29(1), 5--39. 
 - Waldmann, M. R. & Hagmayer, Y. (2005). Seeing versus doing: two modes of accessing causal knowledge. Journal of Experimental Psychology: Learning, Memory, and Cognition, 31(2), 216--227. 
 - Krynski, T. R. & Tenenbaum, J. B. (2007). The role of causality in judgment under uncertainty. Journal of Experimental Psychology: General, 136(3), 430--450. 
 
@@ -132,7 +132,7 @@ __Optional__
 
 ##### 5/20/19 Causal judgment
 
-__The physics of causation__
+__Causation and physics__
 
 - White, P. A. (2006). The causal asymmetry. Psychological Review, 113(1), 132--147. 
 - Mayrhofer, R. & Waldmann, M. R. (2014). Indicators of causal agency in physical interactions: The role of the prior context. Cognition, 132(3), 485--490. 
