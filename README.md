@@ -261,5 +261,5 @@ Stanford offers several tutoring and coaching services:
 
 #### Feedback 
 
-I welcome feedback regarding the course at any point. Please feel free to email me directly, or leave anonymous feedback using this [online form](http://bit.do/psych291feedback). 
+I welcome feedback regarding the course at any point. Please feel free to talk with me after class, come to office hours, email me, or leave anonymous feedback using this [online form](http://bit.do/psych291feedback). 
 
