@@ -1,5 +1,3 @@
-<!-- <span style="font-size:2em">[Schedule](#schedule) 	[Information](#general-information)</span> -->
-
 Causality is central to our understanding of the world and of each other. We think causally when we predict what will happen in the future, infer what happened in the past, and interpret other people's actions and emotions. Causality is intimately linked to explanation -- to answering questions about why something happened. In this discussion-based seminar class, we will first read foundational work in philosophy that introduces the main frameworks for thinking about causation. We will then read some work on formal and computational theories of causation that was inspired by these philosophical frameworks. Equipped with this background, we will study the psychology of causal learning, reasoning, and judgment. We will tackle questions such as: How can we learn about the causal structure of the world through observation and active intervention? What is the relationship between causal reasoning and mental simulation? Why do we select to talk about some causes over others when several causes led to an outcome? Toward the end of the course, we will discuss how what we have learned about causation in psychology may inform other fields of inquiry, such as legal science as well as machine learning and artificial intelligence.
 
 <hr>
@@ -20,7 +18,7 @@ __Email__: gerstenberg@stanford.edu
 
 The class meets on Mondays	between __3:30__ and __6:20PM__ in [160-323](https://campus-map.stanford.edu/?id=01-160&lat=37.42826985&lng=-122.16901666&zoom=17&srch=160-323) (Wallenberg Hall). 
 
-__Note__: Please note that this syllabus is not final. I will adapt the readings based on your interests! 
+__Note__: This syllabus is not final. I will adapt the readings based on your interests! 
 
 - 4/1/19 Introduction & logistics 
 - 4/8/19 Causality in thought (<span style="color:red">Note: This session ends at 5pm!</span>)
@@ -39,12 +37,19 @@ The readings will be made available through [Canvas](https://canvas.stanford.edu
 
 ##### 4/1/19 Introduction & logistics 
 
-##### 4/8/19 Causality in thought (<span style="color:red">Note: This session ends at 5pm!</span>)
+##### 4/8/19 Causality in thought 
+
+<span style="color:red">Note: We'll have class until 5pm and you're encouraged to join in afterwards for the talk at the Center for Mind, Brain, Computation and Technology.</span>
 
 __Causality in cognition__
 
 - Sloman, S. A. & Lagnado, D. (2015). Causality in thought. Annual Review of Psychology, 66(1), 223--247. 
 - Alicke, M. D., Mandel, D. R., Hilton, D., Gerstenberg, T., & Lagnado, D. A. (2015). Causal conceptions in social explanation and moral evaluation: A historical tour. Perspectives on Psychological Science, 10(6), 790--812. 
+
+__Understanding "why": The role of causality in cognition__
+
+- Location: Sloan Hall, Math Building 380, Room 380-C
+- Details: https://neuroscience.stanford.edu/mbct/events/understanding-why-role-causality-cognition
 
 ##### 4/15/19 Philosophy of causation
 
@@ -85,6 +90,7 @@ __Perceiving causation__
 
 - Rips, L. J. (2011). Causation from perception. Perspectives on Psychological Science, 6(1), 77--97. 
 - Scholl, B. J. & Tremoulet, P. D. (2000). Perceptual causality and animacy. Trends in Cognitive Sciences, 4(8), 299--309. 
+- Rolfs, M., Dambacher, M., & Cavanagh, P. (2013). Visual adaptation of the perception of causality. Current Biology, 23(3), 250--254. 
 
 __Perception or cognition?__
 
@@ -139,7 +145,7 @@ __Intuitive theories__
 - Chater, N. & Oaksford, M. (2013). Programs as causal models: Speculations on mental programs and mental representation. Cognitive Science, 37(6), 1171--1191. 
 - Goodman, N. D., Tenenbaum, J. B., & Gerstenberg, T. (2015). Concepts in a probabilistic language of thought. In The Conceptual Mind: New Directions in the Study of Concepts (pp. 623--653). MIT Press.
 
-##### 5/27/19 Memorial day (no class)
+##### 5/27/19 Memorial day (<span style="color:red">no class</span>)
 
 ##### 6/3/19 Causality in AI and in the Law 
 
@@ -188,16 +194,30 @@ _You will ..._
 - prepare a handout for the session that you're leading. 
 - discuss the handout with me during office hours __on Friday before your presentation__. 
 - write short [reaction papers](#reaction-posts) based on the readings and upload each paper on Canvas by 10pm (at the latest) the night before class. 
+- students who audit the class are expected to write reaction posts and participate in discussion in class. 
 
 #### Grading 
 
-- 50% class presentation & handout 
-- 25% reaction posts to readings
-- 25% participation and discussion in class
+- 40% final project
+- 20% handout and leading discussion 
+- 20% reaction posts to readings
+- 20% participation and discussion in class
+
+##### Final project 
+
+The final project may be one of the following three: 
+
+1. An empirical project proposal. 
+2. A literature review on one of the class topics. 
+3. An essay (I will post essay questions). 
+
+A short final project proposal (1/2 page) will be due on __Sunday, 26th at 10pm__. 
+
+The final project (2000--3000 words) will be due on __June, 9th at 10pm__. 
 
 ##### Reaction posts 
 
-Here are some guiding thoughts on how to write a good reaction posts: 
+Here are some guiding thoughts on how to write a good reaction post: 
 
 - Structure your posts (headings, subheadings, etc.). 
 - Express your opinion rather than summarize the paper(s).
@@ -206,7 +226,7 @@ Here are some guiding thoughts on how to write a good reaction posts:
 - Relate different papers to each other. 
 - Ask questions that go beyond what the paper discuss (what's missing, where should we go next)? 
 
-The reaction posts should be concise (one or two paragraphs per paper). 
+The reaction posts should be concise (one or two paragraphs per paper), and are due on __Sunday at 10pm__. 
 
 #### Policies 
 
