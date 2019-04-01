@@ -31,6 +31,8 @@ __Note__: This syllabus is not final. I will adapt the readings based on your in
 - 5/27 Memorial day (<span style="color:red">no class</span>)
 - 6/3 Causality in AI and in the Law 
 
+A sign-up sheet for leading discussion in class is available [here](http://bit.do/psych291signup).
+
 ### Detailed schedule
 
 The readings will be made available through [Canvas](https://canvas.stanford.edu/). 
