@@ -48,8 +48,9 @@ __Causality in cognition__
 
 __Understanding "why": The role of causality in cognition__
 
+- Talk by Prof. Tobias Gerstenberg
 - Location: Sloan Hall, Math Building 380, Room 380-C
-- Details: https://neuroscience.stanford.edu/mbct/events/understanding-why-role-causality-cognition
+- Details: [https://neuroscience.stanford.edu/mbct/events/understanding-why-role-causality-cognition](https://neuroscience.stanford.edu/mbct/events/understanding-why-role-causality-cognition)
 
 ##### 4/15/19 Philosophy of causation
 
@@ -74,15 +75,16 @@ __Optional__:
 __Process theories of causation__
 
 - Wolff, P. (2007). Representing causation. Journal of Experimental Psychology: General, 136(1), 82-111.
-- Wolff, P., Barbey, A. K., & Hausknecht, M. (2010). For want of a nail: How absences cause events. Journal of Experimental Psychology: General, 139(2), 191--221. 
 
 __Dependence theories of causation__
 
 - Halpern, J. Y. & Pearl, J. (2005). Causes and explanations: A structural-model approach. Part I: Causes. The British Journal for the Philosophy of Science, 56(4), 843--887. 
-- Halpern, J. Y. & Hitchcock, C. (2015). Graded Causation and Defaults. British Journal for the Philosophy of Science, 66, 413--457. 
 
-__Optional__: 
+__Optional__
+
 - [Hitchcock, Christopher, "Causal Models", The Stanford Encyclopedia of Philosophy (Fall 2018 Edition), Edward N. Zalta (ed.)](https://plato.stanford.edu/archives/fall2018/entries/causal-models/) 
+- Wolff, P., Barbey, A. K., & Hausknecht, M. (2010). For want of a nail: How absences cause events. Journal of Experimental Psychology: General, 139(2), 191--221. 
+- Halpern, J. Y. & Hitchcock, C. (2015). Graded Causation and Defaults. British Journal for the Philosophy of Science, 66, 413--457. 
 
 ##### 4/29/19 Causal perception 
 
@@ -107,8 +109,8 @@ __The development of causal reasoning__
 __Causal learning in adults__
 
 - Lagnado, D. A., Waldmann, M. R., Hagmayer, Y., & Sloman, S. A. (2007). Beyond covariation. In Causal learning: Psychology, philosophy, and computation (pp. 154--172). Oxford University Press.
-- Bramley, N. R., Gerstenberg, T., Mayrhofer, R., & Lagnado, D. A. (2018). Time in causal structure learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(12), 1880--1910. 
 - Griffiths, T. L. & Tenenbaum, J. B. (2005). Structure and strength in causal induction. Cognitive Psychology, 51(4), 334--384. 
+- Bramley, N. R., Gerstenberg, T., Mayrhofer, R., & Lagnado, D. A. (2018). Time in causal structure learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(12), 1880--1910. 
 
 ##### 5/13/19 Causal reasoning
 
@@ -116,18 +118,18 @@ __Causal reasoning based on observations and interventions__
 
 - Sloman, S. A. & Lagnado, D. A. (2005). Do we "do"?. Cognitive Science, 29(1), 5--39. 
 - Waldmann, M. R. & Hagmayer, Y. (2005). Seeing versus doing: two modes of accessing causal knowledge. Journal of Experimental Psychology: Learning, Memory, and Cognition, 31(2), 216--227. 
-- Krynski, T. R. & Tenenbaum, J. B. (2007). The role of causality in judgment under uncertainty. Journal of Experimental Psychology: General, 136(3), 430--450. 
 
 __The problem of causal selection__
 
 - Hesslow, G. (1988). The problem of causal selection. In Contemporary science and natural explanation: Commonsense conceptions of causality, Brighton, UK, 1988 (pp. 11--32). Harvester Press.
-- Woodward, J. (2015). The problem of variable choice. Synthese, 193(4), 1047--1072. 
 - Hitchcock, C. & Knobe, J. (2009). Cause and norm. Journal of Philosophy, 11, 587--612. 
 - Icard, T. F., Kominsky, J. F., & Knobe, J. (2017). Normality and actual causal strength. Cognition, 161, 80--93.
 
 __Optional__
 
+- Woodward, J. (2015). The problem of variable choice. Synthese, 193(4), 1047--1072. 
 - Woodward, J. (2006). Sensitive and insensitive causation. The Philosophical Review, 115(1), 1--50.
+- Krynski, T. R. & Tenenbaum, J. B. (2007). The role of causality in judgment under uncertainty. Journal of Experimental Psychology: General, 136(3), 430--450. 
 - Kahneman, D. & Miller, D. T. (1986). Norm theory: Comparing reality to its alternatives. Psychological Review, 93(2), 136--153.  
 
 ##### 5/20/19 Causal judgment
@@ -142,6 +144,9 @@ __Intuitive theories__
 
 - Gerstenberg, T., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (in preparation). A counterfactual simulation model of causal judgment. 
 - Gerstenberg, T., Peterson, M. F., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (2017). Eye-Tracking causality. Psychological Science, 28(12), 1731--1744. 
+
+__Optional__
+
 - Chater, N. & Oaksford, M. (2013). Programs as causal models: Speculations on mental programs and mental representation. Cognitive Science, 37(6), 1171--1191. 
 - Goodman, N. D., Tenenbaum, J. B., & Gerstenberg, T. (2015). Concepts in a probabilistic language of thought. In The Conceptual Mind: New Directions in the Study of Concepts (pp. 623--653). MIT Press.
 
@@ -151,9 +156,8 @@ __Intuitive theories__
 
 __Causality in AI__
 
-- Pearl, J. (2019). The seven tools of causal inference, with reflections on machine learning. Communications of the ACM, 62(3), 54--60. 
 - [Miller, T. (2017). Explanation in Artificial Intelligence: Insights from the Social Sciences. arXiv:1706.07269.](https://arxiv.org/abs/1706.07269) 
-- Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2016). Building machines that learn and think like people. Behavioral and Brain Sciences, 40. 
+- Pearl, J. (2019). The seven tools of causal inference, with reflections on machine learning. Communications of the ACM, 62(3), 54--60. 
 
 __Causality in the law__
 
@@ -164,6 +168,7 @@ __Causality in the law__
 __Optional__
 
 - Moore, M. S. (2009). Causation and responsibility: An essay in law, morals, and metaphysics. Oxford University Press. 
+- Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2016). Building machines that learn and think like people. Behavioral and Brain Sciences, 40. 
 
 ### General information
 
