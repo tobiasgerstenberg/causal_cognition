@@ -222,7 +222,7 @@ The final project may be one of the following three:
 
 1. An empirical project proposal. 
 2. A literature review based on one of the class topics. 
-3. An essay (I will post essay questions). 
+3. An essay (I will post a list of potential essay questions on Canvas). 
 
 A short final paper proposal (1/2 page) will be due on __Sunday, 26th at 10pm__. 
 
