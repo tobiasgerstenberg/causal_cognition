@@ -56,15 +56,15 @@ __Understanding "why": The role of causality in cognition__
 
 ##### 4/15 Philosophy of causation
 
-__Concepts of causation__
-
-- Hall, N. (2004). Two concepts of causation. In Causation and Counterfactuals. MIT Press.
-- Schaffer, J. (2005). Contrastive causation. The Philosophical Review, 114(3), 327--358. 
-
 __Philosophy & Psychology of causation__
 
-- White, P. A. (1990). Ideas about causation in philosophy and psychology. Psychological Bulletin, 108(1), 3--18.
+- __White, P. A. (1990). Ideas about causation in philosophy and psychology. Psychological Bulletin, 108(1), 3--18.__
 - Woodward, J. (2012). Causation: Interactions between philosophical theories and psychological research. Philosophy of Science, 79(5), 961--972. 
+
+__Concepts of causation__
+
+- __Hall, N. (2004). Two concepts of causation. In Causation and Counterfactuals. MIT Press.__
+- Schaffer, J. (2005). Contrastive causation. The Philosophical Review, 114(3), 327--358. 
 
 __Optional__: 
 
@@ -116,7 +116,7 @@ __Causal learning in adults__
 
 - Lagnado, D. A., Waldmann, M. R., Hagmayer, Y., & Sloman, S. A. (2007). Beyond covariation. In Causal learning: Psychology, philosophy, and computation (pp. 154--172). Oxford University Press.
 - Griffiths, T. L. & Tenenbaum, J. B. (2005). Structure and strength in causal induction. Cognitive Psychology, 51(4), 334--384. 
-- Bramley, N. R., Gerstenberg, T., Mayrhofer, R., & Lagnado, D. A. (2018). Time in causal structure learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(12), 1880--1910. 
+- Bramley, N. R., Gerstenberg, T., Tenenbaum, J. B., & Gureckis, T. M. (2018). Intuitive experimentation in the physical world. Cognitive Psychology, 105, 9--38. 
 
 ##### 5/13 Causal reasoning
 
