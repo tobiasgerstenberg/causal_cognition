@@ -87,6 +87,7 @@ __Optional__
 - [Hitchcock, Christopher, "Causal Models", The Stanford Encyclopedia of Philosophy (Fall 2018 Edition), Edward N. Zalta (ed.)](https://plato.stanford.edu/archives/fall2018/entries/causal-models/) 
 - Wolff, P., Barbey, A. K., & Hausknecht, M. (2010). For want of a nail: How absences cause events. Journal of Experimental Psychology: General, 139(2), 191--221. 
 - Halpern, J. Y. & Hitchcock, C. (2015). Graded causation and defaults. British Journal for the Philosophy of Science, 66, 413--457. 
+- Cartwright, N. (2001). What Is Wrong With Bayes Nets?. Monist, 84(2), 242--264.
 
 ##### 4/29 Causal perception 
 
@@ -114,6 +115,7 @@ __The development of causal reasoning__
 
 __Causal learning in adults__
 
+- Griffiths, T. L. & Tenenbaum, J. B. (2009). Theory-based causal induction. Psychological Review, 116(4), 661--716. 
 - Lagnado, D. A., Waldmann, M. R., Hagmayer, Y., & Sloman, S. A. (2007). Beyond covariation. In Causal learning: Psychology, philosophy, and computation (pp. 154--172). Oxford University Press.
 - Griffiths, T. L. & Tenenbaum, J. B. (2005). Structure and strength in causal induction. Cognitive Psychology, 51(4), 334--384. 
 - Bramley, N. R., Gerstenberg, T., Tenenbaum, J. B., & Gureckis, T. M. (2018). Intuitive experimentation in the physical world. Cognitive Psychology, 105, 9--38. 
