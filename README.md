@@ -93,12 +93,13 @@ __Optional__
 
 __Perceiving causation__
 
-- Rips, L. J. (2011). Causation from perception. Perspectives on Psychological Science, 6(1), 77--97. 
+- __Rips, L. J. (2011). Causation from perception. Perspectives on Psychological Science, 6(1), 77--97.__ 
 - Scholl, B. J. & Tremoulet, P. D. (2000). Perceptual causality and animacy. Trends in Cognitive Sciences, 4(8), 299--309. 
 - Rolfs, M., Dambacher, M., & Cavanagh, P. (2013). Visual adaptation of the perception of causality. Current Biology, 23(3), 250--254. 
 
 __Perception or cognition?__
 
+- __Bechlivanidis, C., Schlottmann, A., & Lagnado, D. A. (2019). Causation without Realism. Journal of Experimental Psychology: General.__ 
 - Woodward, J. (2011). Causal perception and causal cognition. Perception, Causation, and Objectivity, 229--263. 
 - Bechlivanidis, C. & Lagnado, D. A. (2016). Time reordered: Causal perception guides the interpretation of temporal order. Cognition, 146, 58--66. 
 
