@@ -111,12 +111,12 @@ __Optional__
 
 __The development of causal reasoning__ 
 
-- Gopnik, A., Glymour, C., Sobel, D., Schulz, L., Kushnir, T., & Danks, D. (2004). A theory of causal learning in children: Causal maps and Bayes nets. Psychological Review, 111, 1--31. 
+- __Gopnik, A., Glymour, C., Sobel, D., Schulz, L., Kushnir, T., & Danks, D. (2004). A theory of causal learning in children: Causal maps and Bayes nets. Psychological Review, 111, 1--31. __
 - Frosch, C. A., McCormack, T., Lagnado, D. A., & Burns, P. (2012). Are causal structure and intervention judgments inextricably linked? A developmental study. Cognitive Science, 36, 261--285. 
 
 __Causal learning in adults__
 
-- Griffiths, T. L. & Tenenbaum, J. B. (2009). Theory-based causal induction. Psychological Review, 116(4), 661--716. 
+- __Griffiths, T. L. & Tenenbaum, J. B. (2009). Theory-based causal induction. Psychological Review, 116(4), 661--716. __
 - Lagnado, D. A., Waldmann, M. R., Hagmayer, Y., & Sloman, S. A. (2007). Beyond covariation. In Causal learning: Psychology, philosophy, and computation (pp. 154--172). Oxford University Press.
 - Griffiths, T. L. & Tenenbaum, J. B. (2005). Structure and strength in causal induction. Cognitive Psychology, 51(4), 334--384. 
 - Bramley, N. R., Gerstenberg, T., Tenenbaum, J. B., & Gureckis, T. M. (2018). Intuitive experimentation in the physical world. Cognitive Psychology, 105, 9--38. 
