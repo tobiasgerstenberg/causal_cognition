@@ -165,6 +165,7 @@ __Optional__
 
 __Causality in AI__
 
+- Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2016). Building machines that learn and think like people. Behavioral and Brain Sciences, 40. 
 - [Miller, T. (2017). Explanation in Artificial Intelligence: Insights from the Social Sciences. arXiv:1706.07269.](https://arxiv.org/abs/1706.07269) 
 - Pearl, J. (2019). The seven tools of causal inference, with reflections on machine learning. Communications of the ACM, 62(3), 54--60. 
 
@@ -177,7 +178,7 @@ __Causality in the law__
 __Optional__
 
 - Moore, M. S. (1999). Causation and responsibility. Social Philosophy and Policy, 16(2), 1--51. 
-- Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2016). Building machines that learn and think like people. Behavioral and Brain Sciences, 40. 
+
 
 ### General information
 
