@@ -123,19 +123,20 @@ __Causal learning in adults__
 
 ##### 5/13 Causal reasoning
 
-__Causal reasoning based on observations and interventions__
+__Causal reasoning and counterfactuals__
 
-- Sloman, S. A. & Lagnado, D. A. (2005). Do we "do"?. Cognitive Science, 29(1), 5--39. 
-- Waldmann, M. R. & Hagmayer, Y. (2005). Seeing versus doing: two modes of accessing causal knowledge. Journal of Experimental Psychology: Learning, Memory, and Cognition, 31(2), 216--227. 
+- __Chater, N. & Oaksford, M. (2013). Programs as causal models: Speculations on mental programs and mental representation. Cognitive Science, 37(6), 1171--1191.__
 
 __The problem of causal selection__
 
-- Hesslow, G. (1988). The problem of causal selection. In Contemporary science and natural explanation: Commonsense conceptions of causality, Brighton, UK, 1988 (pp. 11--32). Harvester Press.
+- __Hesslow, G. (1988). The problem of causal selection. In Contemporary science and natural explanation: Commonsense conceptions of causality, Brighton, UK, 1988 (pp. 11--32). Harvester Press.__
 - Hitchcock, C. & Knobe, J. (2009). Cause and norm. Journal of Philosophy, 11, 587--612. 
 - Icard, T. F., Kominsky, J. F., & Knobe, J. (2017). Normality and actual causal strength. Cognition, 161, 80--93.
 
 __Optional__
 
+- Sloman, S. A. & Lagnado, D. A. (2005). Do we "do"?. Cognitive Science, 29(1), 5--39. 
+- Waldmann, M. R. & Hagmayer, Y. (2005). Seeing versus doing: two modes of accessing causal knowledge. Journal of Experimental Psychology: Learning, Memory, and Cognition, 31(2), 216--227. 
 - Woodward, J. (2015). The problem of variable choice. Synthese, 193(4), 1047--1072. 
 - Woodward, J. (2006). Sensitive and insensitive causation. The Philosophical Review, 115(1), 1--50.
 - Krynski, T. R. & Tenenbaum, J. B. (2007). The role of causality in judgment under uncertainty. Journal of Experimental Psychology: General, 136(3), 430--450. 
@@ -156,7 +157,6 @@ __Intuitive theories__
 
 __Optional__
 
-- Chater, N. & Oaksford, M. (2013). Programs as causal models: Speculations on mental programs and mental representation. Cognitive Science, 37(6), 1171--1191. 
 - Goodman, N. D., Tenenbaum, J. B., & Gerstenberg, T. (2015). Concepts in a probabilistic language of thought. In The Conceptual Mind: New Directions in the Study of Concepts (pp. 623--653). MIT Press.
 
 ##### 5/27 Memorial day (<span style="color:red">no class</span>)
