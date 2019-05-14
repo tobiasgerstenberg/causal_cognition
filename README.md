@@ -146,13 +146,13 @@ __Optional__
 
 __Causation and physics__
 
-- White, P. A. (2006). The causal asymmetry. Psychological Review, 113(1), 132--147. 
+- __White, P. A. (2006). The causal asymmetry. Psychological Review, 113(1), 132--147.__ 
 - Mayrhofer, R. & Waldmann, M. R. (2014). Indicators of causal agency in physical interactions: The role of the prior context. Cognition, 132(3), 485--490. 
 - Sanborn, A. N., Mansinghka, V. K., & Griffiths, T. L. (2013). Reconciling intuitive physics and Newtonian mechanics for colliding objects. Psychological Review, 120(2), 411--437. 
 
 __Intuitive theories__
 
-- Gerstenberg, T., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (in preparation). A counterfactual simulation model of causal judgment. 
+- __Gerstenberg, T., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (in preparation). A counterfactual simulation model of causal judgment.__ 
 - Gerstenberg, T., Peterson, M. F., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (2017). Eye-Tracking causality. Psychological Science, 28(12), 1731--1744. 
 
 __Optional__
