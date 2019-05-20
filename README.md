@@ -165,13 +165,13 @@ __Optional__
 
 __Causality in AI__
 
-- Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2016). Building machines that learn and think like people. Behavioral and Brain Sciences, 40. 
+- __Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2016). Building machines that learn and think like people. Behavioral and Brain Sciences, 40.__ 
 - [Miller, T. (2017). Explanation in Artificial Intelligence: Insights from the Social Sciences. arXiv:1706.07269.](https://arxiv.org/abs/1706.07269) 
 - Pearl, J. (2019). The seven tools of causal inference, with reflections on machine learning. Communications of the ACM, 62(3), 54--60. 
 
 __Causality in the law__
 
-- Summers, A. (2018). Common-Sense Causation in the Law. Oxford Journal of Legal Studies, 38(4), 793--821. 
+- __Summers, A. (2018). Common-Sense Causation in the Law. Oxford Journal of Legal Studies, 38(4), 793--821.__ 
 - Schaffer, J. (2010). Contrastive causation in the law. Legal Theory, 16(04), 259--297. 
 - Lagnado, D. A. & Gerstenberg, T. (2017). Causation in legal and moral reasoning. In Oxford Handbook of Causal Reasoning (pp. 565--602). Oxford University Press.
 
