@@ -226,7 +226,14 @@ The final project may be one of the following three:
 
 1. An empirical project proposal. 
 2. A literature review based on one of the class topics. 
-3. An essay (I will post a list of potential essay questions on Canvas). 
+3. An essay. 
+	- Here is a list of example essay questions: 
+		+ What is the relationship between causal cognition and causal perception? 
+		+ In what way are counterfactual thinking and causal thinking related? 
+		+ How many concepts of causation are there? What are the arguments in favor of causal pluralism versus a unified concept of causation? 
+		+ What role does causality play in artificial intelligence? 
+		+ Should legal theorists care about the ordinary person's concept of causation? 
+		+ How do children and adults learn about the causal structure of the world? 
 
 A short final paper proposal (1/2 page) will be due on __May, 26th at 10pm__. 
 
