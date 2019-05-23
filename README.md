@@ -248,7 +248,7 @@ Here are some guiding thoughts on how to write a good reaction post:
 - Try to connect the ideas expressed in the paper to concrete every-day experiences. 
 - Identify strengths and weaknesses of the paper. 
 - Relate different papers to each other. 
-- Ask questions that go beyond what the paper discuss (what's missing, where should we go next)? 
+- Ask questions that go beyond what the paper discusses (what's missing, where should we go next)? 
 
 The reaction posts should be concise (one or two paragraphs per paper), and should be submitted by __Sunday at 10pm__ the latest via Canvas.  
 
